@@ -24,3 +24,6 @@
 {"level":"info","message":"User alextest@test.com created successfully","service":"acquisitions-api","timestamp":"2025-09-28T17:11:39.169Z"}
 {"level":"info","message":"User registered successfully: alextest@test.com","service":"acquisitions-api","timestamp":"2025-09-28T17:11:39.171Z"}
 {"level":"info","message":"::1 - - [28/Sep/2025:17:11:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 101 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T17:11:39.173Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:17:56:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T17:56:01.833Z"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api","timestamp":"2025-09-28T18:04:15.117Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:04:15 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:04:15.123Z"}
