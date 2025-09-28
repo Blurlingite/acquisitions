@@ -27,3 +27,28 @@
 {"level":"info","message":"::1 - - [28/Sep/2025:17:56:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T17:56:01.833Z"}
 {"level":"info","message":"User signed out successfully","service":"acquisitions-api","timestamp":"2025-09-28T18:04:15.117Z"}
 {"level":"info","message":"::1 - - [28/Sep/2025:18:04:15 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:04:15.123Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:38:27.972Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:38:27 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:38:27.980Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:44:41.962Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:44:41 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:44:41.970Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:47:02.775Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:47:02 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:47:02.782Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:57:22.859Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:57:22 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:57:22.867Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:57:27.194Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:57:27 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:57:27.195Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:57:27.507Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:57:27 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:57:27.509Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:57:27.834Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:57:27 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:57:27.835Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T18:59:02.972Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:18:59:02 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T18:59:02.980Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:01:35 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:01:35.539Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:02:09 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:02:09.922Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:03:24 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:03:24.391Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:03:25 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:03:25.244Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:03:25 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:03:25.955Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:03:26 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:03:26.649Z"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:03:27 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:03:27.284Z"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-09-28T19:03:28.085Z","userAgent":"PostmanRuntime/7.37.3"}
+{"level":"info","message":"::1 - - [28/Sep/2025:19:03:28 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-28T19:03:28.086Z"}
