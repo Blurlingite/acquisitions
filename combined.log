@@ -147,3 +147,12 @@
 {"level":"info","message":"::ffff:172.18.0.1 - - [29/Sep/2025:14:35:37 +0000] \"DELETE /api/users/2 HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.37.3\"","service":"acquisitions-api","timestamp":"2025-09-29T14:35:37.635Z"}
 {"level":"info","message":"::1 - - [29/Sep/2025:14:35:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T14:35:54.065Z"}
 {"level":"info","message":"::1 - - [29/Sep/2025:14:36:24 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T14:36:24.242Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:26:22 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:26:22.903Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:26:22 +0000] \"GET /api HTTP/1.1\" 200 32 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:26:22.947Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:26:22 +0000] \"GET /nonexsistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:26:22.978Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:28:00 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:28:00.540Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:28:00 +0000] \"GET /api HTTP/1.1\" 200 32 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:28:00.582Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:28:00 +0000] \"GET /nonexsistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:28:00.611Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:32:09 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:32:09.870Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:32:09 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:32:09.910Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [29/Sep/2025:15:32:09 +0000] \"GET /nonexsistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api","timestamp":"2025-09-29T15:32:09.937Z"}
