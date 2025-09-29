@@ -8,7 +8,6 @@ import authRoutes from "../src/routes/auth.routes.js";
 import usersRoutes from "#routes/users.routes.js";
 import securityMiddleware from "#middleware/security.middleware.js";
 
-// test comments
 const app = express();
 
 app.use(helmet());
