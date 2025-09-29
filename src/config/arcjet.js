@@ -1,16 +1,16 @@
-import arcjet, { shield, detectBot } from '@arcjet/node';
+import arcjet, { shield, detectBot } from "@arcjet/node";
 
 const aj = arcjet({
   key: process.env.ARCJET_KEY,
   rules: [
-    shield({ mode: 'LIVE' }),
+    shield({ mode: "LIVE" }),
     detectBot({
-      mode: 'LIVE',
+      mode: "LIVE",
       allow: [
-        'CATEGORY:SEARCH_ENGINE',
-        'CATEGORY:PREVIEW',
-        'CATEGORY:API', // Allow API testing tools
-        'CATEGORY:DEVELOPMENT', // Allow development tools
+        "CATEGORY:SEARCH_ENGINE",
+        "CATEGORY:PREVIEW",
+        "CATEGORY:API", // Allow API testing tools
+        "CATEGORY:DEVELOPMENT", // Allow development tools
       ],
     }),
     // Rate limiting is handled dynamically in security.middleware.js
