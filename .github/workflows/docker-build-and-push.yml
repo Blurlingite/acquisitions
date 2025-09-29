@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/acquisitions-api
+  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/acquisitions-app
 
 permissions:
   contents: read
